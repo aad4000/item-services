@@ -33,8 +33,9 @@ CMD ["java", "-jar", "app.jar"]
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/item-services.git
-cd item-services
+git clone https://github.com/aad4000/Item_Services.git
+cd Item_Services
+
 ```
 
 ### 2. Build the Application
